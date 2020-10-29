@@ -1,0 +1,88 @@
+html, body
+{
+    height: 100%;
+    width: 1300px;
+    margin: 0;
+    background-color: #97B6ED;
+}
+
+#container
+{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#menu
+{
+    width: 30%;
+    height:100%;
+    background-color: #EDBF97;
+    top: 0;
+    left: 0;
+}
+
+#articulo
+{
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+h2
+{
+    width: 100%;
+    text-align: left;
+    margin-left: 5%;
+}
+
+h1
+{
+    width: 100%;
+    text-align: center;
+}
+
+h3
+{
+    margin-left: 60%;
+}
+
+table 
+{
+   width: 100%;
+   margin-left: 20%;
+}
+
+tr, th, td 
+{
+   width: 15%;
+   text-align: center;
+   padding: 0.5em;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+#enlaceCrear
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+p
+{
+    margin-top: -11%;
+    text-align: center;
+    font-size: 27px;
+}
+
+img
+{
+    margin-top:5%;
+    margin-left: 6%;
+}
